@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<nevjegykartyak>
+
+    <nevjegykartya id=123312>
+
+        <nev>Szabó Mátyás</nev>
+        <ceg>
+            <cim>
+                <iranyitoszam>3300</iranyitoszam>
+                <varos>Eger</varos>
+                <utca>Létezik</utca>
+                <hazszam>22</hazszam>
+            </cim>
+            <nev>Factory</nev>
+            <telefonszam korzet=441>3567</telefonszam>
+            <weblap>factoryvalami.hu</weblap>
+        </ceg>
+
+        <beosztas>Főnök</beosztas>
+        <telefonszam korzet=441>5634</telefonszam>
+        <email>factoryfonok@gmail.com</email>
+
+    </nevjegykartya>
+
+</nevjegykartya>
